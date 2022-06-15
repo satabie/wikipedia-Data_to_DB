@@ -1,0 +1,74 @@
+Agaricus deserticola
+Albatrellus subrubescens
+Amanita bisporigera
+Amanita muscaria
+Amanita ocreata
+Amanita phalloides
+Armillaria gallica
+Armillaria luteobubalina
+Astraeus hygrometricus
+Auriscalpium vulgare
+Imleria badia
+Boletus aereus
+Boletus edulis
+Exsudoporus frostii
+Caloboletus calopus
+Calostoma cinnabarinum
+Calvatia sculpta
+Chalciporus piperatus
+Chorioactis
+Clathrus ruber
+Coprinellus micaceus
+Cortinarius caperatus
+Cortinarius violaceus
+Cyathus
+Dendrocollybia
+Entoloma sinuatum
+Fungus
+Galerina marginata
+Geastrum quadrifidum
+Geastrum triplex
+Gomphus clavatus
+Gymnopilus maritimus
+Gyromitra esculenta
+Hydnellum peckii
+Hydnum repandum
+Hygrophoropsis aurantiaca
+Imperator torosus
+Inocybe saliceticola
+Lactarius indigo
+Lactarius torminosus
+Lactifluus volemus
+Lycoperdon echinatum
+Lycoperdon perlatum
+Marasmius rotula
+Morchella rufobrunnea
+Mycena aurantiomarginata
+Mycena haematopus
+Myriostoma
+Omphalotus nidiformis
+Panellus stipticus
+Paxillus involutus
+Phallus indusiatus
+Phellinus ellipsoideus
+Polyozellus
+Psilocybe aztecorum
+Psilocybe semilanceata
+Ramaria botrytis
+Rhodotus
+Russulaceae
+Russula emetica
+Russula virescens
+Sarcoscypha coccinea
+Suillellus luridus
+Suillus bovinus
+Suillus brevipes
+Suillus luteus
+Suillus pungens
+Suillus salmonicolor
+Suillus spraguei
+Tricholoma pardinum
+Turbinellus floccosus
+Tylopilus felleus
+Verpa bohemica
+Xeromphalina setulipes

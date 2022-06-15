@@ -1,0 +1,170 @@
+250t-class torpedo boat
+AHS Centaur|AHS ''Centaur''
+AI Mk. IV radar
+Akutan Zero
+Alaska-class cruiser|''Alaska''-class cruiser
+Almirante Latorre-class battleship|''Almirante Latorre''-class battleship
+Amagi-class battlecruiser|''Amagi''-class battlecruiser
+AMX-30
+AMX-30E
+Andrea Doria-class battleship|''Andrea Doria''-class battleship
+ARA Moreno|ARA ''Moreno''
+ARA Rivadavia|ARA ''Rivadavia''
+Arena (countermeasure)
+Battleship
+Bayern-class battleship|''Bayern''-class battleship
+Beograd-class destroyer|''Beograd''-class destroyer
+Boeing C-17 Globemaster III in Australian service
+Brazilian battleship Minas Geraes|Brazilian battleship ''Minas Geraes''
+Brazilian battleship S�o Paulo|Brazilian battleship ''S�o Paulo''
+Brazilian cruiser Bahia|Brazilian cruiser ''Bahia''
+Cannon
+Chilean battleship Almirante Latorre|Chilean battleship ''Almirante Latorre''
+Conte di Cavour-class battleship|''Conte di Cavour''-class battleship
+Courageous-class aircraft carrier|''Courageous''-class aircraft carrier
+Courageous-class battlecruiser|''Courageous''-class battlecruiser
+Derfflinger-class battlecruiser|''Derfflinger''-class battlecruiser
+Design 1047 battlecruiser
+Dreadnought
+Dutch 1913 battleship proposal
+French battleship Courbet (1911)|French battleship ''Courbet'' (1911)
+German battleship Bismarck|German battleship ''Bismarck''
+German battleship Tirpitz|German battleship ''Tirpitz''
+German torpedo boat Albatros|German torpedo boat ''Albatros''
+Hawker Hurricane in Yugoslav service
+Helgoland-class battleship|''Helgoland''-class battleship
+Helicopter 66
+Hemmema
+HMAS Australia (1911)|HMAS ''Australia'' (1911)
+HMS Agincourt (1913)|HMS ''Agincourt'' (1913)
+HMS Ark Royal (91)|HMS ''Ark Royal'' (91)
+HMS Bellerophon (1786)|HMS ''Bellerophon'' (1786)
+HMS Cardiff (D108)|HMS ''Cardiff'' (D108)
+HMS Collingwood (1908)|HMS ''Collingwood'' (1908)
+HMS Courageous (50)|HMS ''Courageous'' (50)
+HMS Eagle (1918)|HMS ''Eagle'' (1918)
+HMS Endeavour|HMS ''Endeavour''
+HMS Formidable (67)|HMS ''Formidable'' (67)
+HMS Indefatigable (1909)|HMS ''Indefatigable'' (1909)
+HMS Levant (1758)|HMS ''Levant'' (1758)
+HMS Lion (1910)|HMS ''Lion'' (1910)
+HMAS Melbourne (R21)|HMAS ''Melbourne'' (R21)
+HMS Nairana (1917)|HMS ''Nairana'' (1917)
+HMS New Zealand (1911)|HMS ''New Zealand'' (1911)
+HMS Royal Oak (08)|HMS ''Royal Oak'' (08)
+HMS Speedy (1782)|HMS ''Speedy'' (1782)
+HMS St Vincent (1908)|HMS ''St Vincent'' (1908)
+HMS Warrior (1860)|HMS ''Warrior'' (1860)
+Horses in World War I
+IFF Mark II
+INS Vikrant (R11)|INS ''Vikrant'' (R11)
+Ironclad warship
+Japanese aircraft carrier Akagi|Japanese aircraft carrier ''Akagi''
+Japanese aircraft carrier Hiryu|Japanese aircraft carrier ''Hiryu''
+Japanese aircraft carrier Hosho|Japanese aircraft carrier ''Hosho''
+Japanese aircraft carrier Jun'yo|Japanese aircraft carrier ''Jun'yo''
+Japanese aircraft carrier Kaga|Japanese aircraft carrier ''Kaga''
+Japanese aircraft carrier Ryujo|Japanese aircraft carrier ''Ryujo''
+Japanese aircraft carrier Shinano|Japanese aircraft carrier ''Shinano''
+Japanese battleship Asahi|Japanese battleship ''Asahi''
+Japanese battleship Haruna|Japanese battleship ''Haruna''
+Japanese battleship Hyuga|Japanese battleship ''Hyuga''
+Japanese battleship Mutsu|Japanese battleship ''Mutsu''
+Japanese battleship Nagato|Japanese battleship ''Nagato''
+Japanese aircraft carrier Soryu|Japanese aircraft carrier ''Soryu''
+Kaiman-class torpedo boat|''Kaiman''-class torpedo boat
+K�nig-class battleship|''K�nig''-class battleship
+Leopard 2E
+Light Tank Mk VII Tetrarch
+Lince (tank)
+Lockheed C-130 Hercules in Australian service
+M249 light machine gun
+Mackensen-class battlecruiser|''Mackensen''-class battlecruiser
+Mark XIV bomb sight
+McDonnell Douglas A-4G Skyhawk
+McDonnell Douglas AV-8B Harrier II
+McDonnell Douglas F/A-18 Hornet in Australian service
+McDonnell Douglas F-4 Phantom II
+McDonnell Douglas F-4 Phantom II in Australian service
+McDonnell XF-85 Goblin
+Mahan-class destroyer|''Mahan''-class destroyer
+Minas Geraes-class battleship|''Minas Geraes''-class battleship
+Montreal Laboratory
+Nike-X
+North Carolina-class battleship|''North Carolina''-class battleship
+Northrop YF-23
+Panzer I
+Pennsylvania-class battleship|''Pennsylvania''-class battleship
+Pre-dreadnought battleship
+Project Y
+Rheinmetall Rh-120
+Rivadavia-class battleship|''Rivadavia''-class battleship
+Rogo�arski IK-3
+Russian battleship Peresvet|Russian battleship ''Peresvet''
+Russian battleship Pobeda|Russian battleship ''Pobeda''
+Russian battleship Potemkin|Russian battleship ''Potemkin''
+Russian battleship Retvizan|Russian battleship ''Retvizan''
+Russian battleship Sevastopol (1895)|Russian battleship ''Sevastopol'' (1895)
+Seri Rambai
+Shokaku-class aircraft carrier|''Shokaku''-class aircraft carrier
+Silverplate
+SM U-66|SM ''U-66''
+SMS Baden|SMS ''Baden''
+SMS Bayern|SMS ''Bayern'' (1915)
+SMS Bl�cher|SMS ''Bl�cher''
+SMS Derfflinger|SMS ''Derfflinger''
+SMS Emden|SMS ''Emden''
+SMS Erzherzog Franz Ferdinand|SMS ''Erzherzog Franz Ferdinand''
+SMS Friedrich der Grosse (1911)|SMS ''Friedrich der Grosse'' (1911)
+SMS Goeben|SMS ''Goeben''
+SMS Grosser Kurf�rst (1913)|SMS ''Grosser Kurf�rst'' (1913)
+SMS Kaiser (1911)|SMS ''Kaiser''
+SMS Kaiser Barbarossa|SMS ''Kaiser Barbarossa''
+SMS Kaiser Karl der Grosse|SMS ''Kaiser Karl der Grosse''
+SMS Kaiser Wilhelm II|SMS ''Kaiser Wilhelm II''
+SMS Kaiser Wilhelm der Grosse|SMS ''Kaiser Wilhelm der Grosse''
+SMS K�nig|SMS ''K�nig''
+SMS K�nigsberg (1905)|SMS ''K�nigsberg'' (1905)
+SMS K�r�s|SMS ''K�r�s''
+SMS Kronprinz|SMS ''Kronprinz'' (1914)
+SMS Kurf�rst Friedrich Wilhelm|SMS ''Kurf�rst Friedrich Wilhelm''
+SMS L�tzow|SMS ''L�tzow''
+SMS Markgraf|SMS ''Markgraf''
+SMS Moltke|SMS ''Moltke''
+SMS Nassau|SMS ''Nassau''
+USS Oberrender|USS ''Oberrender''
+SMS Prinzregent Luitpold|SMS ''Prinzregent Luitpold''
+SMS Scharnhorst|SMS ''Scharnhorst''
+SMS Schlesien|SMS ''Schlesien''
+SMS Von der Tann|SMS ''Von der Tann''
+SMS Wittelsbach|SMS ''Wittelsbach''
+SMS W�rth|SMS ''W�rth''
+SMS Z�hringen|SMS ''Z�hringen''
+South Carolina-class battleship|''South Carolina''-class battleship
+Tanks in the Spanish Army
+Tanque Argentino Mediano
+Tosa-class battleship|''Tosa''-class battleship
+USS Arizona (BB-39)|USS ''Arizona'' (BB-39)
+USS Chesapeake (1799)|USS ''Chesapeake'' (1799)
+USS Connecticut (BB-18)|USS ''Connecticut'' (BB-18)
+USS Constitution|USS ''Constitution''
+USS Lexington (CV-2)|USS ''Lexington'' (CV2)
+USS Missouri (BB-63)|USS ''Missouri'' (BB-63)
+USS New Ironsides|USS ''New Ironsides''
+USS New Jersey (BB-62)|USS ''New Jersey'' (BB-62)
+USS Nevada (BB-36)|USS ''Nevada'' (BB-36)
+USS Orizaba|USS ''Orizaba''
+USS President (1800)|USS ''President''
+USS Siboney (ID-2999)|USS ''Siboney'' (ID-2999)
+USS West Bridge|USS ''West Bridge''
+USS Wisconsin (BB-64)|USS ''Wisconsin'' (BB-64)
+Verdeja
+Vultee Vengeance in Australian service
+Webley Revolver
+Yugoslav destroyer Dubrovnik|Yugoslav destroyer ''Dubrovnik''
+Yugoslav monitor Sava|Yugoslav monitor ''Sava''
+Yugoslav monitor Vardar|Yugoslav monitor ''Vardar''
+Yugoslav torpedo boat T1|Yugoslav torpedo boat ''T1''
+Yugoslav torpedo boat T3|Yugoslav torpedo boat ''T3''
+Yugoslav torpedo boat T5|Yugoslav torpedo boat ''T5''
+Yugoslav torpedo boat T7|Yugoslav torpedo boat ''T7''

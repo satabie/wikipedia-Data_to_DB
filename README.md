@@ -1,6 +1,6 @@
 # Store wikipedia_featured_articles data in DB using postgresql
 
-前提：wikipediaapi, postgresqlの環境構築，wikipediaapi, psycopg2等のpythonライブラリの環境構築を終わらせておくこと．
+前提：postgresqlの環境構築，wikipediaapi, psycopg2等のpythonライブラリの環境構築を終わらせておくこと．
 
 ## 手順の説明：
 1. [wikipedia:featured articles](https://en.wikipedia.org/wiki/Wikipedia:Featured_articles)へアクセスし，ソースの内容をwiki_feature_articles.txtへコピペする
